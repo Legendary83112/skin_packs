@@ -1,0 +1,23 @@
+{
+    "header": {
+        "name": "Blockheads",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "uuid": "8b8362a3-cd8c-4f48-9a49-b494659513b6"
+    },
+    "modules": [
+        {
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "type": "skin_pack",
+            "uuid": "c47ad348-0f17-438f-ae11-6c001445a947"
+        }
+    ],
+    "format_version": 1
+}
